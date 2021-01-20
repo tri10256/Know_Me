@@ -130,7 +130,7 @@
       </td>
       <td width="25%" align="center">
         <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
+        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png"> 
       </td>
       
   </tbody>
