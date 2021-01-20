@@ -11,7 +11,7 @@
 <a href="https://twitter.com/dubey_yasharth" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yasharth-dubey-0434b6155/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h4/>A Machine learning enthusiast and Web developer Frontend Developer .Love to code in C++ and Python.  :).<h4/>
+<h4/>A Machine learning enthusiast and Web Frontend Developer.Love to code in C++ and Python.  :).<h4/>
 
 ### I'm Currently
 
