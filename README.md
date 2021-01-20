@@ -6,7 +6,7 @@
   <br><br>
   
 </p>
-<h1>I'm <a  href="https://github.com/tri10256>Trivendram Pal</a></h1>
+<h1>I'm <a  href="https://tri10256.github.io>Trivendram Pal</a></h1>
 <p align="left">
 <a href="https://twitter.com/dubey_yasharth" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yasharth-dubey-0434b6155/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
