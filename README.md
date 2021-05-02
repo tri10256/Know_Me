@@ -19,7 +19,6 @@
 - <h4>📱 A programmer geek but not pro in grammer<h4/>
 - 📚 Competitive Coder
 - ⚛️ I ❤️ Python
-- ⚛️ I ❤️ Full stack
 - ⚛️ I ❤️ Machine Learning and Deep learning
 - 👷🏽‍♂️Looking for Opportunities
 <h4> ‍ <h4/>
