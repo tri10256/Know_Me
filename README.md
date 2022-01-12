@@ -1,17 +1,16 @@
-### Hi geeks👋
+### Hi geeks, Let's Go 👋
 
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <br><br>
+ <br><br>
   
 </p>
-<h1>I'm <a  href="https://tri10256.github.io">Trivendram Pal</a></h1>
+<h1> I'm <a  href="https://tri10256.github.io">Trivendram Pal</a></h1>
 <p align="left">
-<a href="https://twitter.com/dubey_yasharth" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yasharth-dubey-0434b6155/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/trivendrampal/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h4/>A Machine learning enthusiast and Web Frontend Developer.Love to code in C++ and Python.  :).<h4/>
+<h4/>A Machine learning enthusiast and Web Full Stack Developer. Love to code in C++ ,JavaScript and Python.  :).<h4/>
 
 ### I'm Currently
 
@@ -19,7 +18,7 @@
 - <h4>📱 A programmer geek but not pro in grammer<h4/>
 - 📚 Competitive Coder
 - ⚛️ I ❤️ Python
-- ⚛️ I ❤️ Machine Learning and Deep learning
+- ⚛️ I ❤️ Machine Learning and Web Development
 - 👷🏽‍♂️Looking for Opportunities
 <h4> ‍ <h4/>
   
@@ -46,9 +45,6 @@
 </a>
 <a href="https://twitter.com/pal_trivendram" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/yasharth291" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/trivendram-pal-71b694170/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
