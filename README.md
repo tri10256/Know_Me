@@ -8,7 +8,9 @@
 </p>
 <h1> I'm <a  href="https://tri10256.github.io">Trivendram Pal</a></h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/trivendrampal/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/trivendram-pal-71b694170/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <h4/>A Machine learning enthusiast and Web Full Stack Developer. Love to code in C++ ,JavaScript and Python.  :).<h4/>
 
@@ -17,7 +19,7 @@
 
 - <h4>📱 A programmer geek but not pro in grammer<h4/>
 - 📚 Competitive Coder
-- ⚛️ I ❤️ Python
+- ⚛️ I ❤️ C++, Python
 - ⚛️ I ❤️ Machine Learning and Web Development
 - 👷🏽‍♂️Looking for Opportunities
 <h4> ‍ <h4/>
